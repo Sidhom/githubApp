@@ -1,0 +1,15 @@
+.Card {
+    border: 5px solid #73AD21;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 350px;
+    margin: auto;
+    text-align: center;
+}
+.Location {
+    color: grey;
+    font-size: 22px;
+}
+.creationDate {
+    color: #73AD21;
+    font-size: 18px;
+}

@@ -1,0 +1,15 @@
+.Users {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+}
+@media all and(max-width: 1024px) {
+    .Users {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+}
